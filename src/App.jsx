@@ -12,7 +12,6 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<HomePage />}></Route>
-        <Route path="/owner" element={<HomePage />}></Route>
       </Routes>
     </BrowserRouter>
   );
